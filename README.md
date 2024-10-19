@@ -1,5 +1,5 @@
 # Homepage
 
-* [Homepage](https://me.kiui.moe/)
+* [Homepage](https://knocking.moe/)
 
 Under construction...
